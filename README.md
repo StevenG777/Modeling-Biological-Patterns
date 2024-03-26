@@ -1,4 +1,4 @@
-# Modeling-Biological-Patterns
+# UCM-MATH132-Modeling-Biological-Patterns
 
 ## Descriptions:
 The project aimed to model the pattern changes of a species of fish over time in Matlab, utilizing the System of Partial Differential Equations (PDE). It included algebraic derivation to foster an understanding of the theoretical background, where the coding part showcased the implementation of the theoretical equations to real life.
